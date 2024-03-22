@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "5507ecf6-b60c-479b-9127-3242f6eb0aff",
+  "comprimento do conteúdo": "181",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "um cachorro deitado na grama com palmeiras ao fundo",
+    "confiança": 0,7947391867637634
+  },
+  "metadados": {
+    "largura": 366,
+    "altura": 485
+  }
+}

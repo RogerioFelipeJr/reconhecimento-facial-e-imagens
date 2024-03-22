@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "180471a1-1459-4737-8ab1-af962737d205",
+  "comprimento do conteúdo": "161",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "um homem parado no topo de uma montanha",
+    "confiança": 0,7646145224571228
+  },
+  "metadados": {
+    "largura": 3872,
+    "altura": 3872
+  }
+}

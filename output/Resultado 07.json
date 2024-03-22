@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "1d50ac1a-61ab-4dac-b811-1fe3f08a005c",
+  "comprimento do conteúdo": "163",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "texto": "um cavalo parado em um campo gramado",
+    "confiança": 0,7406229972839355
+  },
+  "metadados": {
+    "largura": 4000,
+    "altura": 6000
+  }
+}
